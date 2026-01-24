@@ -9,4 +9,11 @@
 ## Inspiration/Links
 
 - TRIA.os Discord: https://discord.gg/TRIA
+
+- TRIA.os Game: https://www.roblox.com/games/6311279644/TRIA-os-Escape
+
+<br>
+
+- Geometry Dash: https://store.steampowered.com/app/322170/Geometry_Dash
+
 - Jukebox mod for GD: https://github.com/Fleeym/jukebox
