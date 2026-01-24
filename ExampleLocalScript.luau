@@ -10,7 +10,7 @@ local Jukebox = require(script:FindFirstChild("JukeboxMod"))
 Jukebox.Add(
 	"Music", -- name
 	"rbxasset://sounds/MapMusic/ThunderStyle.mp3", -- local file
-	10, -- priority
+	10, -- priority, higher the better
 	1, -- volume
 	0, -- startpos
 	{
