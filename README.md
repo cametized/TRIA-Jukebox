@@ -7,13 +7,9 @@
 <h2 align="center">A jukebox-like system based off the Geometry Dash mod: Jukebox.</h2>
 
 ## Inspiration/Links
+- Model Link: https://create.roblox.com/store/asset/91637398063687/Cams-TRIA-Jukebox-Module
 
 - TRIA.os Discord: https://discord.gg/TRIA
-
 - TRIA.os Game: https://www.roblox.com/games/6311279644/TRIA-os-Escape
 
-<br>
-
-- Geometry Dash: https://store.steampowered.com/app/322170/Geometry_Dash
-
-- Jukebox mod for GD: https://github.com/Fleeym/jukebox
+- GD's Jukebox Mod for Geode: https://github.com/Fleeym/jukebox
