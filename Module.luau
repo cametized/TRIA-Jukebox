@@ -1,5 +1,6 @@
 require(game:GetService("ServerScriptService").Runtime):Init()
 -- ^^ Must be at the top of every script
+-- tria os please realize that i hate my life and i did while writing this god bless my soul
 
 local ContentProvider = game:GetService("ContentProvider")
 local LogService = game:GetService("LogService")
