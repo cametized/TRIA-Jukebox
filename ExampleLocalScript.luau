@@ -13,10 +13,10 @@ Jukebox.Add(
 	10, -- priority, higher the better
 	1, -- volume
 	0, -- startpos
-	{
-		id = 122954797407214, -- fallback asset id
-		volume = 1
-	}
+{
+id = 122954797407214, -- fallback asset id
+volume = 1
+}
 )
 
 Jukebox.Init(MapLib)
