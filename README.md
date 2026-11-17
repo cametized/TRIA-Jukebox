@@ -1,6 +1,6 @@
 # <h1 align="center">TRIA Jukebox</h1>
 
-<h2 align="center">A jukebox-like system based off the Geometry Dash mod: Jukebox.</h2>
+<h2 align="center">A jukebox-like system based off the Geometry Dash mod, well, Jukebox.</h2>
 
 ## Inspiration/Links
 - Model Link: https://create.roblox.com/store/asset/91637398063687/Cams-TRIA-Jukebox-Module
