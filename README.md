@@ -1,4 +1,4 @@
-# <h1 align="center"> || TRIA Jukebox ||*</h1>
+# <h1 align="center">TRIA Jukebox</h1>
 
 <h2 align="center">A jukebox-like system based off the Geometry Dash mod: Jukebox.</h2>
 
